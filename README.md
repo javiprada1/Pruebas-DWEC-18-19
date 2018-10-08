@@ -18,3 +18,6 @@ Para la clase de Desarrollo Web en Entorno Cliente del curso 2018/19.
 Para incluir imágenes con enlaces:
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+
+Pruebas desde eclipse!!
