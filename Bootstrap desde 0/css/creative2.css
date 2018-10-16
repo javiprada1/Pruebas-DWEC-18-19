@@ -14,7 +14,7 @@ h1 {
 	/*color:black;*/
 	
 }
-
+/*
 p span {
 	color: blue;
 	
@@ -47,13 +47,18 @@ p .destacado { color:green; }
 #destacado { color: red; }
 
 p #destacado { color: blue; } 
+*/
+
+p a { color: red; }
+p > a { color: blue; }
+
+p > a > span { color: green; }
 
 
+h2 { color: green; }
+h1 + h2 { color: red }
 
-
-
-
-
+a[target="_blank"] { color: green; }
 
 
 
